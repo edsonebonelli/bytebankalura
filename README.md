@@ -4,6 +4,8 @@
 
 <p>Foi um curso de orientação a objetos, vimos vários conceitos, mas tem muitas outras coisas de boas práticas que vimos também aqui no meio. E acabamos fazendo um sistema bem grande, então terminamos nosso sistema de contas, fizemos o sistema básico de funcionários, fizemos o sistema de autenticação, várias coisas que aprendemos nesse curso.</p>
 
+<p>Em breve vou postar um outro cod com o mesmo objetivo, porém em uma situação totalmente diferente de minha própria criação.</p>
+
 <h1> Oque está sendo trabalhado 🚧 </h1>
 
 <p>Foi trabalhado métodos abstratos, vimos que cada tipo de conta vai ter uma ligeira diferença no método sacar(), então eu quero garantir que todo mundo implemente, pergunte se não souber, como isso tem que ser implementado para o nosso cliente, para o ByteBank ter que especificar isso para nós.</p>
